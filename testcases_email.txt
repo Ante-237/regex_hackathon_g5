@@ -1,0 +1,13 @@
+food@email.com
+food.meat@some.email
+yam1.meat@some.email
+Food.meat@some.email
+fOod.meAt@sOme.eMail
+f1od.meat@some.email
+food.me1t@some.email
+food.meat@so1e.email
+food.meat@some.em1il
+food.meat@some.em(ail
+food.mea;@some.email
+food.meat@some.com
+
