@@ -1,5 +1,5 @@
 function Password_Checker() {
-   var match = /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{7,15}$/;//Your Regex goes between the forward slashe
+   var match = /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{8}$/;//Your Regex goes between the forward slashe
 
    var identity = window.prompt("Enter Your Password: ");
 
